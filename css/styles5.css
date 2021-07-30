@@ -1,0 +1,8 @@
+/* Universal selector  */
+
+p {
+ color: red;
+}
+* {
+color: blue;
+}

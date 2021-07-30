@@ -1,0 +1,33 @@
+/* relative values-(percentage)-depend upon parent values: Height width 
+1em - 16px default browser style - change in chrome settings font size to test
+1 em = base value
+em - Relative - depends upon parent
+rem - Relative - depends upon root
+*/
+.outer {
+  width: 500px;
+  height: 500px;
+  background: red;
+}
+.inner {
+  width: 50%;
+  height: 50%;
+  background: blue;
+}
+
+.divtest {
+  font-size: 32px;
+}
+.remtest {
+  font-size: 2 em;
+}
+
+div {
+  font-size: 10px;
+}
+.relative {
+  font-size: 2em;
+}
+.absolute {
+  font-size: 32px;
+}

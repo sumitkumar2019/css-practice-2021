@@ -1,0 +1,7 @@
+/* font size, height, width, pixels - absolute values */
+h1{
+ font-size: 60px;
+ width: 400px;
+ height:100px;
+ background: blue;
+}

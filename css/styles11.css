@@ -1,0 +1,17 @@
+/* 
+Typography- font-size, font-family 
+Font stack - generic family - serif, sans-serif, cursive, fantasy, monospace
+*/
+body {
+  font-family: "Courier New", Courier, monospace;
+}
+
+h1 {
+  font-family: verdana;
+}
+
+h2{
+ font-family: 'Style Script', cursive;
+}
+
+/* Google Fonts */

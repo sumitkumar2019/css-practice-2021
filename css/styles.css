@@ -1,0 +1,32 @@
+/* Element Selector */
+h1 {
+ color: teal;
+}
+p {
+ color: red;
+}
+/* id selector */
+#title {
+ color: hotpink;
+}
+
+#footer{
+ color: lightslategray;
+}
+/* class selector */
+.green-heading{
+ color: green;
+}
+
+.red-heading{
+ color: red;
+}
+.yellow-heading{
+ color: yellow;
+}
+span {
+ text-transform: uppercase;
+}
+div {
+ background-color: green;
+}
